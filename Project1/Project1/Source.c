@@ -6,3 +6,7 @@ void main() {
 	printf("11211");
 	printf("11231");
 }
+
+void cll() {
+	int x = 0;
+}
